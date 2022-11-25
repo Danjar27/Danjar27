@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danjar27&label=Profile%20views&color=0e75b6&style=flat" alt="danjar27" /> </p>
 
-- 🔭 I’m currently working on [Devsu](https://devsu.com/)
-
 - 👨‍💻 All of my projects are available at [my portfolio page](https://danjar-portolio.web.app/)
 
 - 💬 Ask me about **React, javascript, python...**
